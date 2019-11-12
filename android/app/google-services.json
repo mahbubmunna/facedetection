@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81480086049",
+    "firebase_url": "https://face-detection-854f3.firebaseio.com",
+    "project_id": "face-detection-854f3",
+    "storage_bucket": "face-detection-854f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81480086049:android:e96c7cf515dd5c4c6be960",
+        "android_client_info": {
+          "package_name": "me.moonss.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81480086049-hpigphgl0ch9cdlk579390gs7kv2go9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbdoN_tG8GEXFkD1voMYszT8i-tL0cg98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81480086049-hpigphgl0ch9cdlk579390gs7kv2go9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
